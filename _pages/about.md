@@ -15,7 +15,7 @@ I am a Undergraduate student in Department of Computer Science and Engineering a
 
 **📗 Research Interest**
 
-  Deep Learning
-  Computer Vision
-  Semantic Segmentation  
-  Domain Shift
+  Deep Learning<br>
+  Computer Vision<br>
+  Semantic Segmentation<br>
+  Domain Shift<br>
