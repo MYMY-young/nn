@@ -10,8 +10,8 @@ I am a Undergraduate student in Department of Computer Science and Engineering a
 
 **🎓 Education**
 
-  M.S. in Department of Artificial Intelligence at Sogang Univ.<br>(Mar. 2023 - )  
-  B.S. in Department of Computer Science and Engineering at Sogang Univ.<br>(Mar. 2019 - Present)
+  M.S. in Department of Artificial Intelligence at Sogang Univ.(Mar. 2023 - )  
+  B.S. in Department of Computer Science and Engineering at Sogang Univ.(Mar. 2019 - Present)
 
 **📗 Research Interest**
 
