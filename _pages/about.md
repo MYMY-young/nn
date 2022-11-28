@@ -6,7 +6,6 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 
 I am a Undergraduate student in Department of Computer Science and Engineering at Sogang University. My advisor is Junsuk Choe. My research interests are Semantic Segmentation and Domain Adaptation.
 
-[Download CV](https://drive.google.com/file/d/1ncTnWhUqLmxNxKalAXTGdRiCOhzeqvUe/view?usp=sharing)
 
 **🎓 Education**
 
